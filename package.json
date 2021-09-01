@@ -1,0 +1,24 @@
+{
+  "name": "javascriptasynchronismcourse",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu117/javaScriptAsynchronismCourse.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Eduardo Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu117/javaScriptAsynchronismCourse/issues"
+  },
+  "homepage": "https://github.com/edu117/javaScriptAsynchronismCourse#readme"
+}
